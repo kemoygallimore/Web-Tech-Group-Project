@@ -387,6 +387,7 @@ address{
 }
 #success{
   position: absolute;
+  top:50px;
 }
 .aubackground{
   background-color: #1d1d1d7e;
