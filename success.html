@@ -14,17 +14,23 @@
   #header{
   position: relative;
   background-image: url(banner2.png);
-  background-position:bottom;
+  background-position:top;
   background-repeat: no-repeat;
   background-size:cover;
   height: 80vh;
   width: 100%;
 }
+#footer{
+  height: 20vh;
+ background-color: #1d1d1d;
+ padding: 2px 2.5% 2px 2.5%;
+ transform:translateY(100%);
+ }
     </style>
     
     </head>
 
-<body style="background-color: #1d1d1d99;" >
+<body style="background-color: #1d1d1d; height: 100vh;" >
 
   <div id="header">
     <!-- <div class="d-flex justify-content-between border-bottom">
@@ -86,15 +92,6 @@
   </div>
 </div>
 
-<div class="body" >
-
-<script>
-    setTimeout(function(){
-       window.location.href = 'index.html';
-    }, 150000);
- </script>
-
-</div>
 <div id="footer">
   <hr>
   <div class=" container-fluid row ">
@@ -114,6 +111,11 @@
   <h6>© Double5 Productions 2022</h6>
 </div>
 
+<script>
+  setTimeout(function(){
+     window.location.href = 'index.html';
+  }, 150000);
+</script>
 
 <script src="bootstrap.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
