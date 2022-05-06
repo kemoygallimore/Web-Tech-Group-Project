@@ -207,21 +207,21 @@ list-style: inside;
   background-color:goldenrod ;
   border: none;
 }
-#header #signup{
+#signup{
   border: none;
   border-radius: 25px;
   margin-left: 10px;
   text-decoration: underline;
   color:goldenrod;
 }
-#header #signup:hover {
+#signup:hover {
   border: none;
   border-radius: 25px;
   margin-left: 10px;
   text-decoration: underline;
   color:white;
 }
-#header #login{
+#login{
   background-color:none;
   border: none;
   border-radius: 25px;
@@ -395,3 +395,15 @@ address{
 p{
   text-align: center;
 } 
+#kemz{
+  border-radius: 20px;
+  background-color: #ffffff;
+  margin-top: 25%;
+}
+
+.login_text{
+  text-align: center;
+}
+#left_side{
+  margin-left:20px;
+}
