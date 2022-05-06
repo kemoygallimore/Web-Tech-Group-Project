@@ -207,7 +207,7 @@ list-style: inside;
   background-color:goldenrod ;
   border: none;
 }
-#signup{
+#signup {
   border: none;
   border-radius: 25px;
   margin-left: 10px;
@@ -220,12 +220,20 @@ list-style: inside;
   margin-left: 10px;
   text-decoration: underline;
   color:white;
+  background-color:goldenrod ;
 }
 #login{
   background-color:none;
   border: none;
   border-radius: 25px;
   margin-left: 10px;
+}
+#login:hover {
+  border: none;
+  border-radius: 25px;
+  margin-left: 10px;
+  color:white;
+  background-color:goldenrod ;
 }
 #header .btn:hover {
   background-color:goldenrod ;
