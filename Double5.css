@@ -432,6 +432,12 @@
   }
   /* mobile version */
   @media screen and (max-width:800px ) {
+    #arrow{
+      bottom:10vh;
+    }
+    #arrow img{
+      height:70px;
+    }
     #formbutton h4 
     {
       font-size: 5vw;
