@@ -432,14 +432,11 @@
   }
   /* mobile version */
   @media screen and (max-width:800px ) {
-    /* #arrow{
-      bottom:10vh;
-    }
     #arrow img{
       height:70px;
-    } */
+    } 
     #header{
-      height:90vh;
+      height:95vh;
     }
     #formbutton h4 
     {
