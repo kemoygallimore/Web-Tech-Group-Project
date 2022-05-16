@@ -42,7 +42,7 @@
     width: 100%;
     animation: scale-in-center 2s ease-in-out both;
     padding: 0px 2.5%;
-    min-height: -webkit-fill-available;
+    height: -webkit-fill-available;
   }
   html{
     height: -webkit-fill-available;
