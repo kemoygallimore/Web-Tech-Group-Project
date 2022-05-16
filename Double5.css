@@ -438,6 +438,9 @@
     #header{
       height:95vh;
     }
+    #header .vb {
+      bottom:7%;
+    }
     #formbutton h4 
     {
       font-size: 5vw;
