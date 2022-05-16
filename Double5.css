@@ -38,15 +38,13 @@
     background-position:top;
     background-repeat: no-repeat;
     background-size:cover;
-    min-height: 100vh;
+    height: 100vh;
     width: 100%;
     animation: scale-in-center 2s ease-in-out both;
     padding: 0px 2.5%;
-    min-height: -webkit-fill-available;
+    
   }
-  html{
-    min-height: -webkit-fill-available;
-  }
+  
   .background{
     background-image: url(banner2.png);
     background-position:top;
