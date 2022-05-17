@@ -395,6 +395,15 @@
   p{
     text-align: center;
   } 
+  #kemz{
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 25%;
+  }
+  #left_side
+  {
+    margin-left: 20px;
+  }
   #map {
     height: 400px;
     /* The height is 400 pixels */
