@@ -211,27 +211,27 @@
     background-color:goldenrod ;
     border: none;
   }
-  #header #signup{
+  #signup{
     border: none;
     border-radius: 25px;
     margin-left: 10px;
     text-decoration: underline;
     color:goldenrod;
   }
-  #header #signup:hover {
+  #signup:hover {
     border: none;
     border-radius: 25px;
     margin-left: 10px;
     text-decoration: underline;
     color:white;
   }
-  #header #login{
+  #login{
     background-color:none;
     border: none;
     border-radius: 25px;
     margin-left: 10px;
   }
-  #header .btn:hover {
+  .btn:hover {
     background-color:goldenrod ;
     border: none;
   }
